@@ -1,7 +1,7 @@
 import React from 'react'
 import '@styles/Checkout.scss'
 
-export default const Checkout = () => {
+const Checkout = () => {
   return (
     <div className="Checkout">
 			<div className="Checkout-container">
@@ -20,3 +20,4 @@ export default const Checkout = () => {
 		</div>
   )
 }
+export default Checkout
