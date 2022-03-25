@@ -1,0 +1,6 @@
+{
+  "short_name": "React Shop",
+  "name": "Ecommerce Fake API",
+  "start_url": ".",
+  "display": "standalone"
+}

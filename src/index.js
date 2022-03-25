@@ -5,5 +5,6 @@ import App from './routes/App.jsx'
 ReactDOM.render(
   <React.StrictMode>
     <App /> 
-  </React.StrictMode>, document.getElementById('app')
+  </React.StrictMode>, 
+  document.getElementById('app')
 )
