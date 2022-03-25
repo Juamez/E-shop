@@ -1,7 +1,7 @@
 import React from 'react'
 import '@styles/ShoppingCartItem.scss'
 
-export default const ShoppingCartItem = () => {
+const ShoppingCartItem = () => {
   return (
     <div className="ShoppingCartItem">
 			<figure>
@@ -12,3 +12,5 @@ export default const ShoppingCartItem = () => {
 		</div>
   )
 }
+
+export default ShoppingCartItem

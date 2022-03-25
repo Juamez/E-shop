@@ -3,10 +3,10 @@ import '@styles/Menu.scss'
 
 export const Menu = () => {
   return (
-    <div class="desktop-menu">
+    <div className="Menu">
     <ul>
       <li>
-        <a href="/" class="title">My orders</a>
+        <a href="/" className="title">My orders</a>
       </li>
 
       <li>
